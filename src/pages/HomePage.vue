@@ -1,9 +1,13 @@
 <template>
   <div class="container-fluid">
-    <div class="col-12">
+   
+    <section class="row">
+      
 
-      <Portfolio />
-    </div>
+        <Portfolio />
+      
+
+    </section>
   </div>
 </template>
 

@@ -5,9 +5,7 @@
   <main>
     <router-view />
   </main>
-  <footer class="bg-success text-dark">
-    footer
-  </footer>
+  
 </template>
 
 <script>
@@ -32,9 +30,5 @@ export default {
 }
 
 
-footer {
-  display: grid;
-  place-content: center;
-  height: 32px;
-}
+
 </style>
