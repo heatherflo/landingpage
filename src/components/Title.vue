@@ -34,8 +34,8 @@ return{}
 .me {
   object-fit: cover;
   border-radius: 50%;
-  width: 240px;
-  height: 240px;
+  width: 350px;
+  height: 350px;
 }
 .name {
   font-family: "Shadows Into Light", cursive;

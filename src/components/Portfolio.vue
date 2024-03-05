@@ -3,8 +3,8 @@
 
 
 
-<section class="row ">
-  <div class="font">
+
+  <div class="font col-12">
 
     <p class="text-center m-3">Applications</p>
   </div>
@@ -19,7 +19,7 @@
     <img class=" mx-2 img-fluid keepr" :src="'src/assets/img/keepr.png'" alt="screenshot of KeeprAp">
     
   </div>
-</section>
+
 <section class="row">
   <div class="font">
 

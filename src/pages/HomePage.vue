@@ -1,16 +1,11 @@
 <template>
   <div class="container-fluid">
    
-    <section class="row">
-    
-     
-      
-      
-      <Title></Title>
+    <section class="row">   
+      <Title />
     </section>
     <section class="row">
       <Portfolio />
-
     </section>
   </div>
 </template>
