@@ -41,7 +41,7 @@ return{}
   font-family: "Shadows Into Light", cursive;
   font-weight: 400;
   font-style: normal;
-  font-size: 50px;
+  font-size: 100px;
 }
 .keepr{
   height: 20vh;
