@@ -1,10 +1,10 @@
 <template>
-  <nav class="container-fluid navbar navbar-expand-sm navbar-dark bg-light px-3 col-12 font  ">
+  <nav class="container-fluid navbar navbar-expand-sm navbar-dark bg-light px-3 col-12 font   ">
 
 
     <router-link class="navbar-brand d-flex" :to="{ name: 'Home' }">
 
-      <div class="text-dark ">Heather Johnson</div>
+      <div class="text-dark fs-2 ">Heather Johnson</div>
     </router-link>
     <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarText"
       aria-controls="navbarText" aria-expanded="false" aria-label="Toggle navigation">
@@ -13,14 +13,14 @@
 
     <div class="collapse navbar-collapse" id="navbarText">
       <ul class="navbar-nav me-auto">
-        <li>
-          <router-link :to="{ name: 'About' }" class="btn text-dark lighten-30 selectable ">
+        <li >
+          <router-link :to="{ name: 'About' }" class="btn fs-4 text-dark lighten-30 selectable ">
             Portfolio
           </router-link>
-          <router-link :to="{ name: 'About' }" class="btn text-dark lighten-30 selectable">
+          <router-link :to="{ name: 'About' }" class="btn fs-4 text-dark lighten-30 selectable">
             About
           </router-link>
-          <router-link :to="{ name: 'About' }" class="btn text-dark lighten-30 selectable">
+          <router-link :to="{ name: 'About' }" class="btn fs-4 text-dark lighten-30 selectable">
             Contact
           </router-link>
         </li>
