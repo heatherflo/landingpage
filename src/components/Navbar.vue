@@ -1,10 +1,10 @@
 <template>
-  <nav class="container-fluid navbar navbar-expand-sm navbar-dark bg-light px-3 col-12 ">
+  <nav class="container-fluid navbar navbar-expand-sm navbar-dark bg-light px-3 col-12 font  ">
 
 
     <router-link class="navbar-brand d-flex" :to="{ name: 'Home' }">
 
-      <div class="text-dark">Heather Floyd</div>
+      <div class="text-dark ">Heather Johnson</div>
     </router-link>
     <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarText"
       aria-controls="navbarText" aria-expanded="false" aria-label="Toggle navigation">
@@ -57,6 +57,11 @@ a:hover {
   border-bottom: 2px solid black;
   border-bottom-left-radius: 0;
   border-bottom-right-radius: 0;
+}
+.font {
+  font-family: "Shadows Into Light", cursive;
+  font-weight: 400;
+  font-style: normal;
 }
 
 @media screen and (min-width: 576px) {

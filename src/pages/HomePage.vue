@@ -2,23 +2,25 @@
   <div class="container-fluid">
    
     <section class="row">
-      
-
-        <Portfolio />
+    
+     
+        <!-- <Portfolio /> -->
       
 
     </section>
+   <Title></Title>
   </div>
 </template>
 
 <script>
 import Portfolio from '../components/Portfolio.vue';
+import Title from '..components/Title.vue';
 
 export default {
   setup() {
     return {};
   },
-  components: { Portfolio }
+  components: { Portfolio, Title }
 }
 </script>
 
