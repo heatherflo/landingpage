@@ -7,6 +7,7 @@
 <div class="name">
 Heather Johnson
 </div>
+
 <div>
   Software Developer | Photographer
 </div>

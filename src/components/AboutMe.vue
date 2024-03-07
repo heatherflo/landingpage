@@ -1,10 +1,11 @@
 <template>
 
   
-
-    <div class="font">
-
-<p class="m-3 text-center m-3">About Me</p>
+  <div class="font">
+    
+    <p class="m-3 text-center ">About Me</p>
+    <hr class="m-3">
+<p class="m-3 text-center fs-2 ">Heather is the best</p>
     </div>
   
 </template>

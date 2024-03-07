@@ -8,6 +8,7 @@
 
     <p class="text-center m-3">Applications</p>
   </div>
+  <hr class="m-3">
 <div class="d-flex col justify-content-center  ">
 
   <div class="card selectable mx-2">
