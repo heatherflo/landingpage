@@ -45,11 +45,11 @@
 <!-- carrousel -->
 
 
-  <div id="portfolio" class="carousel slide" data-bs-ride="carousel">
+  <div id="portfolio" class="carousel slide carousel-dark" data-bs-ride="carousel">
     <div class="carousel-inner">
-      <div class="carousel-item active">
+      <!-- <div class="carousel-item active">
         <img src="src/assets/img/backpack.jpg" class="d-block w-75" alt="...">
-      </div>
+      </div> -->
       <div class="carousel-item">
         <img src="/src/assets/img/bluelake.jpg" class="d-block w-95" alt="...">
       </div>
